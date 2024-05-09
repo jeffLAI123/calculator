@@ -16,8 +16,9 @@ body {
 #display {
   width: 100%;
   padding: 20px;
+  box-sizing: border-box;
   font-size: 5rem;
-  text-align: left;
+  text-align: right;
   background-color: hsl(0, 0%, 20%);
   color: white;
 }
